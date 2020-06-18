@@ -1,0 +1,56 @@
+body {
+    background: #FAF9F8;
+    margin: 24px 12px;
+}
+
+.center {
+    max-width: 1084px;
+    margin: auto;
+    text-align: center;
+}
+
+.image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    border-radius: 3px;
+}
+
+.panel {
+    margin: 12px 0px;
+    background: white;
+}
+
+.subtitle {
+    text-transform: uppercase;
+    letter-spacing: 8px;
+    margin-bottom: 24px;
+}
+
+.content {
+    text-align: left;
+}
+
+
+.center {
+    max-width: 1280px;
+    margin: auto;
+    text-align: center;
+}
+
+.link {
+    margin: 12px 0px;
+}
+
+
+a {
+    color: #808080;
+}
+
+    a:visited {
+        color: #808080;
+    }
+
+    a:hover {
+        color: #000000;
+    }
